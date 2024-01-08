@@ -17,7 +17,7 @@ const Footer = () => {
           </Text>
           <Text>
             <Link href="https://www.instagram.com/___ezpz777/" target="_blank">
-              <Image ml={16} alt="Instagram" className="social-icon" />
+              <Image ml="4.3rem" alt="Instagram" className="social-icon" />
             </Link>
           </Text>
         </Box>
