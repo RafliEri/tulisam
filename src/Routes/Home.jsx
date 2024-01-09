@@ -26,7 +26,7 @@ const Home = () => {
             </Link>
           </RouteLink>
         </Box>
-        <Box
+        {/* <Box
           h="10rem"
           boxShadow={"md"}
           borderBottom={"1px"}
@@ -45,7 +45,7 @@ const Home = () => {
               </Text>
             </Link>
           </RouteLink>
-        </Box>
+        </Box> */}
       </Box>
     </>
   );
