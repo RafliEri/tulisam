@@ -104,7 +104,7 @@ const Mfis = () => {
               terbiasa.
             </p>
             <p className="paragraf4">
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oke, kembali ke
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oke, kembali ke{" "}
               <em>scene</em> berjemur. Ngomong-ngomong, ini sudah setahun
               berlalu sejak terakhir kali aku memeluk lututku sambil tersenyum
               ke arah matahari. Kali ini aku tak sembari memeluk lutut, tapi
@@ -116,7 +116,7 @@ const Mfis = () => {
               juga tentunya. Hahaha.
             </p>
             <p className="paragraf5">
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kini, gadis yang sudah
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kini, gadis yang sudah{" "}
               <em>bisa</em> cari uang sendiri itu terus memikirkan nasibnya
               langkah demi langkah. Mengkhawatirkan setiap hasil keputusan yang
               sudah dia buat sebelumnya. Satu tahun pun telah berlalu untuk yang
