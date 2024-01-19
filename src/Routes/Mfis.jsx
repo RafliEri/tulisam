@@ -109,7 +109,8 @@ const Mfis = () => {
                 memejamkan mata, aku mengucap rasa syukur di dalam hatiku,
                 “Terima kasih, Tuhan dan Alam semesta. Karena masih mengizinkan
                 sinar mentari menemaniku dalam kesendirianku.”
-              </Text>
+              </Text>{" "}
+              <br />
               <Text className="paragraf3" as="p" fontFamily="body">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dan akupun mulai hanyut ke
                 dalam suasana damai. Aku merasakan kehangatannya menemani jiwaku
@@ -144,6 +145,7 @@ const Mfis = () => {
                 lebih mudah membenciku dengan cepat. Dan yah, aku sudah mulai
                 terbiasa.
               </Text>
+              <br />
               <Text className="paragraf5" as="p" fontFamily="body">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oke, kembali ke{" "}
                 <em>scene</em> berjemur. Ngomong-ngomong, ini sudah setahun
