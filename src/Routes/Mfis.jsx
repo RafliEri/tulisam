@@ -1,7 +1,6 @@
 import { ChakraProvider, extendTheme, Box, Text } from "@chakra-ui/react";
 import NavBar from "../components/Navbar";
 import Footer from "../components/Footer";
-// import { Box, Text } from "@chakra-ui/react";
 
 const theme = extendTheme({
   fonts: {
