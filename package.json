@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
     "@fontsource/dm-sans": "^5.0.18",
     "@fontsource/poppins": "^5.0.8",
     "@testing-library/jest-dom": "^5.17.0",
