@@ -53,6 +53,26 @@ const Home = () => {
             </Link>
           </RouteLink>
         </Box> */}
+          <Box
+            h="10rem"
+            boxShadow={"md"}
+            borderBottom={"1px"}
+            borderColor={"gray.300"}
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+            bg="white"
+            p={4}
+            mt={3}
+          >
+            <RouteLink to="/kytb">
+              <Link color={"black"}>
+                <Text fontSize={"2xl"} fontWeight={"bold"}>
+                  Kerinduan yang tak <em>bertuan</em>
+                </Text>
+              </Link>
+            </RouteLink>
+          </Box>
         </Box>
       </>
     </ChakraProvider>

@@ -14,7 +14,7 @@ const Mfis = () => {
     <ChakraProvider theme={theme}>
       <>
         <NavBar />
-        <audio src="audio/sound.mp3" autoPlay loop></audio>
+
         <Box padding="2rem">
           <Box
             paddingX={{ base: "1rem", md: "3rem", lg: "6rem" }}

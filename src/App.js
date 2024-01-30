@@ -3,6 +3,7 @@ import { Route } from "react-router-dom";
 import Home from "./Routes/Home";
 import Mfis from "./Routes/Mfis";
 import Awalm from "./Routes/Awalm";
+import Krndn from "./Routes/Kytb";
 import NotFound from "./Routes/NotFound";
 import { Routes } from "react-router-dom";
 
@@ -13,6 +14,7 @@ const App = () => {
         <Route exact path="/" element={<Home />} />
         <Route path="/mfis" element={<Mfis />} />
         <Route path="/awal" element={<Awalm />} />
+        <Route path="/kytb" element={<Krndn />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </>
