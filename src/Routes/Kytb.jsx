@@ -32,7 +32,7 @@ const Krndn = () => {
               <Text className="paragraf1" as="p" fontFamily="body">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cuaca hari ini dipenuhi rinai
                 hujan lebat tak berspasi. Terus saja tergurai airnya tanpa
-                henti. Beberapa hari ini aku memimpikanmu tak hanya sekali.
+                henti. Beberapa hari ini Aku memimpikanmu tak hanya sekali.
               </Text>
               <br />
               <Text className="paragraf2" as="p" fontFamily="body">
@@ -40,7 +40,7 @@ const Krndn = () => {
                 <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;Rupanya semesta mengetahui banyaknya
                 rindu tak terucap melalui jutaan bahkan milyaran tetesan air
-                hujan. Aku mulai bertanya pada hati, apakah di sana kau pernah
+                hujan. Aku mulai bertanya pada hati, apakah di sana Kau pernah
                 merasakan kerinduan yang sama denganku walau hanya sekali?
               </Text>{" "}
               <br />
@@ -60,18 +60,18 @@ const Krndn = () => {
               <Text className="paragraf3" as="p" fontFamily="body">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerinduan yang tak bertuan memang
                 sudah lahap memakan hati, semakin lama semakin tak tersisa. Aku
-                terus berpikir bagaimana hari-harimu kini kau jalani. Apakah kau
+                terus berpikir bagaimana hari-harimu kini Kau jalani. Apakah Kau
                 menemukan kisah baru yang jauh lebih menyenangkan di kota ibu
-                Pertiwi? Bertemu seseorang yang kau senangi tulus dari lubuk
+                Pertiwi? Bertemu seseorang yang Kau senangi tulus dari lubuk
                 hati. Atau seseorang yang membuat beban di kedua pundakmu tak
-                terasa lagi. Seseorang yang mampu menaklukan hatimu yang kau
+                terasa lagi. Seseorang yang mampu menaklukan hatimu yang Kau
                 kelilingi duri.
               </Text>
               <br />
               <Text className="paragraf5" as="p" fontFamily="body">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aku menari-nari di atas
                 sajak ini sambil membawa sekuntum bunga Matahari. Sambil
-                memejamkan mata aku pun tersenyum. Bayang-bayang itu mulai
+                memejamkan mata Aku pun tersenyum. Bayang-bayang itu mulai
                 datang lagi.
               </Text>{" "}
               <br />
@@ -79,7 +79,7 @@ const Krndn = () => {
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerinduan tak bertuan. Rasa
                 ini akan terus kubawa dalam hati. Sambil menjalani hari seolah
                 tak sabar menunggu semesta mempertemukan lagi. Potongan momen
-                manis yang kusimpan ini hanya aku dan kau yang bisa{" "}
+                manis yang kusimpan ini hanya Aku dan Kau yang bisa{" "}
                 <em>memahami</em>.
               </Text>{" "}
               <br />
