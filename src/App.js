@@ -1,10 +1,10 @@
 import React from "react";
 import { Route } from "react-router-dom";
-import Home from "./Routes/Home";
-import Mfis from "./Routes/Mfis";
+import Home from "./Routes/Home.jsx";
+import Mfis from "./Routes/Mfis.jsx";
 import Awalm from "./Routes/Awalm";
-import Krndn from "./Routes/Kytb";
-import NotFound from "./Routes/NotFound";
+import Krndn from "./Routes/Kytb.jsx";
+import NotFound from "./Routes/NotFound.jsx";
 import { Routes } from "react-router-dom";
 
 const App = () => {
